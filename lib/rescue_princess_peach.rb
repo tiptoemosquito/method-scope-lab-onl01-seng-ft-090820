@@ -5,4 +5,4 @@ end
 
 rescue_princess_peach
 puts status
-print phrase
+print phrase "Hooray! Mario has saved Princess Peach."
