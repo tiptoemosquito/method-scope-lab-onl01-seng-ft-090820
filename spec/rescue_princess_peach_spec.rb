@@ -8,5 +8,5 @@ describe "#rescue_princess_peach" do
   end
 end
 
-status
+"rescued"
 puts phrase "Hooray! Mario has rescued Princess Peach!"
