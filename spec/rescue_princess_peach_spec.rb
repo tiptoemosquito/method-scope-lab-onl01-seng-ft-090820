@@ -7,6 +7,3 @@ describe "#rescue_princess_peach" do
 
   end
 end
-
-
-
