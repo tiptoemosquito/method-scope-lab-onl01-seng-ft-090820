@@ -7,5 +7,5 @@ describe "#rescue_princess_peach" do
   end
 end
 
-rescue_princess_peach = "rescued"
-puts catch_phrase (phrase "Hooray! Mario has rescued Princess Peach.")
+rescue_princess_peach
+puts catch_phrase (phrase "Hooray! Mario has rescued Princess Peach!")
