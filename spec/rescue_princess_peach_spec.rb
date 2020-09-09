@@ -9,4 +9,4 @@ describe "#rescue_princess_peach" do
 end
 
 
-puts phrase "Hooray! Mario has rescued Princess Peach!"
+
