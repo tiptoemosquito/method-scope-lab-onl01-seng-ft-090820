@@ -8,4 +8,4 @@ describe "#rescue_princess_peach" do
   end
 end
 
-puts (phrase "Hooray! Mario has rescued Princess Peach!")
+puts ("Hooray! Mario has rescued Princess Peach!")
