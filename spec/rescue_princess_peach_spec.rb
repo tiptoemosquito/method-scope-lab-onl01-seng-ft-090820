@@ -8,4 +8,4 @@ describe "#rescue_princess_peach" do
   end
 end
 
-puts catch_phrase (phrase)
+puts rescue_princess_peach
