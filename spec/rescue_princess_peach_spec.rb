@@ -9,5 +9,5 @@ describe "#rescue_princess_peach" do
 end
 
 def catch_phrase
-puts ("Hooray! Mario has rescued Princess Peach!")
+puts phrase ("Hooray! Mario has rescued Princess Peach!")
 end
